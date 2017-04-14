@@ -1,2 +1,2 @@
-print("Goodbye");
-print("See you soon");
+print("Goodbye!");
+print("See you soon!");
